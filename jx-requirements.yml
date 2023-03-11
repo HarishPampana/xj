@@ -1,0 +1,4 @@
+cluster:
+---
+ingress:
+  domain: kdev.procco.net
